@@ -1,0 +1,2 @@
+12345 Journal [name=Vintage2, issn=12345, frequency=2, issuePrice=20.0, subscriptions=1 elements]
+1234 Journal [name=Vintage, issn=1234, frequency=2, issuePrice=20.0, subscriptions=3 elements]
